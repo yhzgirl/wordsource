@@ -1,3 +1,8 @@
+## To Do
+1. Add callbacks
+2. Add Twitter API
+3. Refactor tests once mock/double/stub learned for rspec
+
 ## Background
 
 A WordSource is a source of words. You can get words from it by calling the `next_word` method.
